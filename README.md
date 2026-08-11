@@ -1,4 +1,4 @@
-# Green Rift Initiative — Premium Free Website Prototype
+# Green Rift Initiative 
 
 Files: multi-page static HTML/CSS site.
 
